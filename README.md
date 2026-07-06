@@ -142,6 +142,13 @@ The dashboard provides insights about:
 
 The application can be deployed using Streamlit Cloud for online access.
 
+## Project Deliverables
+
+- 🔗 Research Paper: [https://docs.google.com/document/d/1nXSVm2OV9vMUgvX-nJB3u6NGzEexq8bh/edit?usp=drivesdk&ouid=105635979916499483150&rtpof=true&sd=true](docs/research_paper.pdf)
+- 🔗 Executive Summary: [https://docs.google.com/document/d/1gqPsQhA2bFFMCl9MgeUwHkuC3wDOu1k_/edit?usp=drivesdk&ouid=105635979916499483150&rtpof=true&sd=true](docs/executive_summary.pdf)
+- 🔗 Live Dashboard: [https://afficionado-coffee-sales.streamlit.app/]
+- 🔗 Github: [https://github.com/aditimarwadi/Afficionado-Coffee-Sales-Analytics]
+
 ## 👩‍💻 Author
 
 Aditi Marwadi
