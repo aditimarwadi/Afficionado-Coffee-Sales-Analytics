@@ -43,6 +43,9 @@ sales-analysis-project/
 
 └── images/
     └── dashboard screenshots
+└──docs/
+   └──research_paper.docx
+   └──executive_summary.docx
 ```
 
 ## 📊 Dashboard Features
